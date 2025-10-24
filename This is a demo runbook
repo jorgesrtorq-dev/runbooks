@@ -1,1 +1,24 @@
-<ol><li><p><strong>Initial Assessment:</strong></p><ul class="tight" data-tight="true"><li><p>Review Wiz Alert details for publicly exposed data asset.</p></li><li><p>Confirm the severity as critical from the alert dashboard and case details.</p></li></ul></li><li><p><strong>Notification:</strong></p><ul class="tight" data-tight="true"><li><p>Alert relevant stakeholders, including data security and compliance teams.</p></li></ul></li><li><p><strong>Data Asset Identification:</strong></p><ul class="tight" data-tight="true"><li><p>Identify the exposed resource named "finance_data_e88zlm".</p></li><li><p>Verify the subscription: 'Azure Finance Subscription', ID: '6e43a477-7f17-4c0a-b367-65bfd28bef98'.</p></li></ul></li><li><p><strong>Risk Analysis:</strong></p><ul class="tight" data-tight="true"><li><p>Analyze what specific financial data is exposed.</p></li><li><p>Evaluate the potential impact on financial data confidentiality and integrity.</p></li></ul></li><li><p><strong>Access Review:</strong></p><ul class="tight" data-tight="true"><li><p>Check access permissions for the 'finance_data_e88zlm' resource.</p></li><li><p>Ensure only authorized personnel can access sensitive financial data.</p></li></ul></li><li><p><strong>Remediation:</strong></p><ul class="tight" data-tight="true"><li><p>Convert publicly exposed resource to private or limit access based on need.</p></li><li><p>Implement firewall rules and network security groups to protect sensitive data.</p></li><li><p>Update security policies to reflect new access controls.</p></li></ul></li><li><p><strong>Monitoring:</strong></p><ul class="tight" data-tight="true"><li><p>Set up continuous monitoring alerts for critical changes in the asset's exposure.</p></li><li><p>Monitor logs for suspicious activity post-remediation.</p></li></ul></li><li><p><strong>Documentation:</strong></p><ul class="tight" data-tight="true"><li><p>Document the entire incident handling and resolution process within internal systems.</p></li><li><p>Update the case notes with findings, remediation actions, and monitoring outcomes.</p></li></ul></li></ol>
+<ol>
+	<li>
+		<p><strong>Initial Assessment:</strong></p>
+		<ul class="tight" data-tight="true">
+			<li>
+				<p>Review Wiz Alert details for publicly exposed data asset.</p>
+			</li>
+			<li>
+				<p>Confirm the severity as critical from the alert dashboard and case details.</p>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<p><strong>Notification:</strong></p>
+		<ul class="tight" data-tight="true">
+			<li>
+				<p>Alert relevant stakeholders, including data security and compliance teams.</p>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<p><strong>Data Asset Identification:</strong></p>
+		<ul class="tight" data-tight="true">
+			<li><p>Identify the exposed resource named "finance_data_e88zlm".</p></li><li><p>Verify the subscription: 'Azure Finance Subscription', ID: '6e43a477-7f17-4c0a-b367-65bfd28bef98'.</p></li></ul></li><li><p><strong>Risk Analysis:</strong></p><ul class="tight" data-tight="true"><li><p>Analyze what specific financial data is exposed.</p></li><li><p>Evaluate the potential impact on financial data confidentiality and integrity.</p></li></ul></li><li><p><strong>Access Review:</strong></p><ul class="tight" data-tight="true"><li><p>Check access permissions for the 'finance_data_e88zlm' resource.</p></li><li><p>Ensure only authorized personnel can access sensitive financial data.</p></li></ul></li><li><p><strong>Remediation:</strong></p><ul class="tight" data-tight="true"><li><p>Convert publicly exposed resource to private or limit access based on need.</p></li><li><p>Implement firewall rules and network security groups to protect sensitive data.</p></li><li><p>Update security policies to reflect new access controls.</p></li></ul></li><li><p><strong>Monitoring:</strong></p><ul class="tight" data-tight="true"><li><p>Set up continuous monitoring alerts for critical changes in the asset's exposure.</p></li><li><p>Monitor logs for suspicious activity post-remediation.</p></li></ul></li><li><p><strong>Documentation:</strong></p><ul class="tight" data-tight="true"><li><p>Document the entire incident handling and resolution process within internal systems.</p></li><li><p>Update the case notes with findings, remediation actions, and monitoring outcomes.</p></li></ul></li></ol>
